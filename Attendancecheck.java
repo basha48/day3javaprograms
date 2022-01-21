@@ -21,5 +21,4 @@ System.out.println("Employee is Absent");
 }
 
 
-
 }
