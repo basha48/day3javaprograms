@@ -48,5 +48,4 @@ public class wagesfor100hrs {
             int totalwage = totalemphrs * emp_rateperhour;
             System.out.println("Total Employee Wage: " + totalwage);
         }
-
 }
