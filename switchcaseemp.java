@@ -38,5 +38,4 @@ System.out.println("emp Total salary is :" +Totalsalary);
 }
 
 
-
 }
